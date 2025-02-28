@@ -25,11 +25,13 @@ Ensure you have the following installed:
 ## Setup
 1. Clone the repository:
 git clone https://github.com/yourusername/Phone-Spam-Marker.git
-Navigate to the project directory:
-cd spam-detection-api
 
-2. Create and activate a virtual environment:
+Navigate to the project directory:
+cd Phone-Spam-Marker
+
+3. Create and activate a virtual environment:
 python -m venv venv
+
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 ## Install dependencies:
